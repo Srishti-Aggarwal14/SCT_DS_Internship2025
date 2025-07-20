@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,Price,Stock
+101,Notebook,Stationery,50.0,100.0
+102,Pencil,Stationery,Not Available,300.0
+103,Laptop,Electronics,55000.0,20.0
+104,Water Bottle,Not Available,120.0,150.0
+105,Notebook,Stationery,50.0,100.0
+106,Mouse,Electronics,800.0,Not Available
+107,Not Available,Stationery,30.0,250.0
