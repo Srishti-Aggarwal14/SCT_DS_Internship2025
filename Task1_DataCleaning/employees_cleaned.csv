@@ -1,0 +1,4 @@
+EmpID, Name ,Age, Department , Salary ,JoinDate, Gender, Age
+102,Bob,34.0,HR,55000.0,2019-07-01,M,34.0
+104,David,45.0,Finance,70000.0,2018-10-05,M,45.0
+105,Eve,30.0,IT,62000.0,2020-06-20,F,30.0
