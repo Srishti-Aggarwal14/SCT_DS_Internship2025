@@ -36,6 +36,14 @@ The goal of this task is to clean and preprocess a raw product dataset (`product
 The cleaned dataset is now free of duplicates and missing values, and is ready for analysis.
 
 ---
+### 📊 Visualizations Generated:
+-barplot_stock_by_category.png – Stock distribution across categories
+
+-boxplot_price_distribution.png – Box plot of price to identify distribution and outliers
+
+-price_vs_stock.png – Scatter plot to examine relationship between price and stock
+
+
 
 ### 💻 Notebook Used:
 **Filename:** `Task2_DataCleaning.ipynb`  
