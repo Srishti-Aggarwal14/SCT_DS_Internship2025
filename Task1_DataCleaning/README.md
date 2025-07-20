@@ -8,18 +8,24 @@ This task involves cleaning and preprocessing a raw employee dataset (`employees
 
 SCT_DS_Internship2025/
 └── Task1_DataCleaning/
-├── employees_raw.csv
-├── employees_cleaned.csv
-└── Task1_DataCleaning.ipynb
+    ├── employees_raw.csv
+    ├── employees_cleaned.csv
+    ├── output_plot.png
+    └── Task1_DataCleaning(1).ipynb
 
 ---
 
 ## 📌 Objective
 
-- Import and explore the raw employee dataset.
-- Identify and handle missing values, inconsistencies, and invalid entries.
-- Save the cleaned version of the dataset.
-- Maintain a clear and reproducible cleaning process.
+-Import and explore the raw employee dataset.
+
+-Identify and handle missing values, inconsistencies, and invalid entries.
+
+-Visualize key insights from the cleaned data.
+
+-Maintain a clear and reproducible cleaning process.
+
+
 
 ---
 
@@ -27,6 +33,8 @@ SCT_DS_Internship2025/
 
 - `employees_raw.csv`: Original unprocessed dataset.
 - `employees_cleaned.csv`: Cleaned and finalized dataset ready for further analysis.
+-  output_plot.png – Bar chart generated using cleaned data.
+
 
 ---
 
@@ -49,12 +57,23 @@ SCT_DS_Internship2025/
 
 ## 🚀 How to Run
 
-1. Open the notebook `Task1_DataCleaning.ipynb` in Google Colab.
-2. Run all cells to:
-   - Load raw data
-   - Clean it step-by-step
-   - Save the cleaned file as `employees_cleaned.csv`
-3. Download or move both `.csv` files and the notebook into this folder.
+1.Open Task1_DataCleaning.ipynb in Google Colab or Jupyter Notebook.
+
+2.Run all code cells sequentially to:
+
+-Load raw data
+
+-Clean it step-by-step
+
+-Visualize and save the cleaned data
+
+3.Outputs will be saved as:
+
+-employees_cleaned.csv
+
+-output_plot.png
+
+
 
 ---
 
